@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title>2. Öğretim Ders</title>
+		<meta charset="utf-8" />
+		<meta name="keywords" content="dpü, kütahya, dumlupınar"/>
+		<meta name="description" content="İlk HTML sayfam."/>
+	</head>
+	<body>
+		Merhaba Dünya<br />
+		Kış geliyor...
+		<P>Kütahya Dumlupınar Üniversitesi<p />
+		<HR />
+		<!-- bu kısımlara not yazabilirim -->
+		<h1>Kütahya Dumlupınar Üniversitesi<h1 />
+		<h2>Kütahya Dumlupınar Üniversitesi<h2 />
+		<h3>Kütahya Dumlupınar Üniversitesi<h3 />
+		<h4>Kütahya Dumlupınar Üniversitesi<h4 />
+		<h5>Kütahya Dumlupınar Üniversitesi<h5 />
+		<h6>Kütahya Dumlupınar Üniversitesi<h6 />
+	<ol>
+			<li>Balıkesirspor</li>
+			<li>Manyasspor</li>
+			<li>BEŞİKTAŞ</li>
+			<li>Fenerbahçe</li>
+			<li>Galatasaray</li>
+			<li>Bursaspor</li>
+			<li>Trabzonspor</li>
+	</ol>
+	
+	
+	<ul>
+			<li>Balıkesirspor</li>
+			<li>Manyasspor</li>
+			<li>BEŞİKTAŞ</li>
+			<li>Fenerbahçe</li>
+			<li>Galatasaray</li>
+			<li>Bursaspor</li>
+			<li>Trabzonspor</li>
+	</ul>
+	</body>
+</html>
